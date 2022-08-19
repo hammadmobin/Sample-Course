@@ -1,11 +1,24 @@
 {
   "courses": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Angular 13 Fundamentals",
       "description": "Learn the fundamentals of Angular 13",
       "percentComplete": 26,
       "favorite": true
+    },
+    {
+      "id": "DcpVNK3",
+      "title": "CS101",
+      "description": "Introduction to computing",
+      "percentComplete": 8,
+      "favorite": true
+    }
+  ],
+  "lessons": [
+    {
+      "id": "1",
+      "title": "Component Driven Architecture"
     }
   ]
 }
